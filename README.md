@@ -1,3 +1,3 @@
 # bookmark
-Kumpulan link yg saya bookmark.
+Kumpulan bookmark.
 
